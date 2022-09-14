@@ -21,7 +21,7 @@ All of the questions asked during your time interviewing here shouldn't require 
   You'll be asked to create a system that solves a core value proposition of SimplyInsured.  You'll be asked questions that will have you think through the data model all the way up to the architecture.  
   
 4. <b>Product</b> [1:1 with an Product Manager, 1 hour] <br>
-  You'll be given context around an actual SimplyInsured customer feature request, and asked to work through your approach to creating the right product for the customer.  
+  You'll be given context around an actual SimplyInsured customer feature request, and asked to work through your approach to creating the right product for the customer.  Things we will look into are the ability to think of potential ideas to consider, prioritization, and ensuring that any feature that is recommended has a clear user experience and takes into consideration all the ways in which a user could interact with it
   
 5. <b>Mission</b> [1:1 with the CEO, 15 minutes] <br>
   You'll have a quick chat with our CEO on the mission here at SimplyInsured.
