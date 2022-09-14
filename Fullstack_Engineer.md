@@ -12,6 +12,7 @@ All of the questions asked during your time interviewing here shouldn't require 
 
 2. <b>Pair-Programming</b> [1:1 with an Engineer, 1 hour] <br>
   <b>This section will require some set up before hand on your part.</b> You'll be asked to work on a front-end feature as the driver, so you'll want a front-end environment spun up before-hand.  Feel free to use any of the following framework environments, or any other you might be comfortable with.
+    We'll be looking for your ability to work with another engineer to solve/approach problems.
     * React: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
     * Angular: https://angular.io/guide/setup-local#install-the-angular-cli
     * Vue: https://cli.vuejs.org/#getting-started
