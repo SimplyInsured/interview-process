@@ -11,12 +11,13 @@ All of the questions asked during your time interviewing here shouldn't require 
   The problem that you'll encounter and the code that you'll be asked to write should feel fairly straightforward.  You don't have to memorize and recite patterns or solve any leetcode style algorithms.  You'll be presented with some context around a problem, then be asked to write some code that generates a specific data structure as an output.
 
 2. <b>Pair-Programming</b> [1:1 with an Engineer, 1 hour] <br>
-  <b>This section will require some set up before hand on your part.</b> You'll be asked to work on a front-end feature as the driver, so you'll want a front-end environment spun up before-hand.  Feel free to use any of the following framework environments, or any other you might be comfortable with.
+  <b>This section will require some set up before hand on your part.</b> You'll be asked to work on a front-end feature as the driver, so you'll want a front-end environment spun up before-hand. Coderpad can also run Framework environments within their website. Feel free to use any of the following framework environments, or any other you might be comfortable with.
     We'll be looking for your ability to work with another engineer to solve/approach problems.
     * React: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
     * Angular: https://angular.io/guide/setup-local#install-the-angular-cli
     * Vue: https://cli.vuejs.org/#getting-started
-  
+    * Coderpad: Coderpad allows us to run Framework environments within their website. Please let us know before the interview if you'd prefer to use Coderpad and what Framework you'd like to use.
+
 3. <b>Systems Design</b> [1:1 with an Engineer, 1 hour] <br>
   You'll be asked to create a system that solves a core value proposition of SimplyInsured.  You'll be asked questions that will have you think through the data model all the way up to the architecture.  
   
