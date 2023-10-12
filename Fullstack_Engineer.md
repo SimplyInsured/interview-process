@@ -16,7 +16,7 @@ All of the questions asked during your time interviewing here shouldn't require 
     * React: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
     * Angular: https://angular.io/guide/setup-local#install-the-angular-cli
     * Vue: https://cli.vuejs.org/#getting-started
-    * Coderpad: Coderpad allows us to run Framework environments within their website. Please let us know before the interview if you'd prefer to use Coderpad and what Framework you'd like to use.
+    * Coderpad.io (React Pad): Coderpad.io can generate an online development environment.
 
 3. <b>Systems Design</b> [1:1 with an Engineer, 1 hour] <br>
   You'll be asked to create a system that solves a core value proposition of SimplyInsured.  You'll be asked questions that will have you think through the data model all the way up to the architecture.  
